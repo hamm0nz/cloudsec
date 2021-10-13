@@ -5,8 +5,7 @@ Please feel free to contribute. : ]
 
 
 # Lab
-**Pentester Academy**\
-Various scenario for exploiting AWS cloud.
+**Pentester Academy** : The silmulated scenarios for exploiting AWS cloud.
  - https://attackdefense.com/listing?labtype=cloud-services&subtype=cloud-services-amazon-iam 
 
 **Cloud Goat**
