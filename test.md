@@ -1,4 +1,4 @@
-# Welcome to my Cloud Security Reading List
+# Welcome to My Cloud Security Research Lists
 
 The following list is my interesting resources that includes techical articles, labs , e-books for developing my cloud security skills. 
 Please feel free to contribute. : ]
