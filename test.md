@@ -6,13 +6,27 @@ Please feel free to contribute. : ]
 
 # Lab
 **Pentester Academy** 
+Various scenario for exploiting AWS cloud.
  - https://attackdefense.com/listing?labtype=cloud-services&subtype=cloud-services-amazon-iam 
 
 **Cloud Goat**
  - https://github.com/RhinoSecurityLabs/cloudgoat
 
 **AWS Sec Workshop**
-  - https://awssecworkshops.com/
+  - https://awssecworkshops.com
+
+ **Well Architechtedlabs**
+   - https://wellarchitectedlabs.com
+   
+   **DVCA (Damn Vulnerable Cloud Application)**
+   - https://github.com/m6a-UdS/dvca
+
+**Flaws.cloud**
+- http://flaws.cloud
+- http://flaws2.cloud
+
+**IAM Vulnerable**
+https://github.com/BishopFox/iam-vulnerable
  
 
 
