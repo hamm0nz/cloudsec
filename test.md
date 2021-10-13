@@ -1,6 +1,6 @@
 # Welcome to my Cloud Security Reading List
 
-The following list is my interesting resources for developing my cloud security skills
+The following list is my interesting resources for developing my cloud security skills.
 
 
 # Lab
