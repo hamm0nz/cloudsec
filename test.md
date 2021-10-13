@@ -32,6 +32,14 @@ Please feel free to contribute. : ]
 **Hands on AWS Penetration Testing** 
 - https://www.packtpub.com/product/hands-on-aws-penetration-testing-with-kali-linux/9781789136722
 
+# Awesome Github
+Deep techincal guidelines for further study
+- https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Cloud.md
+- AWS 
+	- https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Cloud%20-%20AWS%20Pentest.md
+- Azure
+	- https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Cloud%20-%20Azure%20Pentest.md 
+
  
 
 
