@@ -47,7 +47,9 @@ Deep technical guidelines for further study
 	- https://github.com/CyberSecurityUP/Awesome-Cloud-PenTest/raw/main/Cloud%20PenTest%20-%20AWS%20and%20Azure%20by%20Joas.pdf
 
 
-
+# Tools
+- Azure
+	- https://github.com/NetSPI/MicroBurst
  
 
 
