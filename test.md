@@ -44,7 +44,7 @@ Deep technical guidelines for further study
 
 # Pentest My Mapping
 - Cloud Pentest My mapping
-- https://github.com/CyberSecurityUP/Awesome-Cloud-PenTest/raw/main/Cloud%20PenTest%20-%20AWS%20and%20Azure%20by%20Joas.pdf
+	- https://github.com/CyberSecurityUP/Awesome-Cloud-PenTest/raw/main/Cloud%20PenTest%20-%20AWS%20and%20Azure%20by%20Joas.pdf
 
 
 
