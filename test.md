@@ -43,6 +43,7 @@ Deep technical guidelines for further study
 	- https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Cloud%20-%20Azure%20Pentest.md 
 
 # Pentest My Mapping
+- Cloud Pentest My mapping
 https://github.com/CyberSecurityUP/Awesome-Cloud-PenTest/raw/main/Cloud%20PenTest%20-%20AWS%20and%20Azure%20by%20Joas.pdf
 
 
