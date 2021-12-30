@@ -54,3 +54,8 @@ Deep technical guidelines for further study
 
 
 [test](https://www.google.com)
+
+
+# Threat Hunting
+- CloudTrail
+       - https://www.binarydefense.com/threat-hunting-aws-cloudtrail-with-sentinel-part-1/#_msocom_2
