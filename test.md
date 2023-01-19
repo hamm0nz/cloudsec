@@ -6,6 +6,7 @@ Please feel free to contribute. : ]
 
 # Cloud Security Services & Overview
 - [**CloudSecDocs**](https://cloudsecdocs.com): is a website collecting and sharing technical notes and knowledge on cloud-native technologies, security, technical leadership, and engineering culture.
+- [**CloudSecList**](https://cloudseclist.com/): is the best way to stay on top of the cloud security landscape without having to be overwhelmed by all the noise. 
 # Lab
 **Pentester Academy** : Setup and exploit vulnerabilities over xx scenarios in AWS cloud
  - https://attackdefense.com/listing?labtype=cloud-services&subtype=cloud-services-amazon-iam 
@@ -77,5 +78,6 @@ Deep technical guidelines for further study
 # Cloud Assessment
 - [ScubaGear M365 Secure Configuration Baseline Assessment Tool](https://github.com/cisagov/ScubaGear/tree/main/baselines)
 - [Microsoft Azure Active Directory M365 Minimum Viable Secure Configuration Baseline Draft Version 0.1](https://www.cisa.gov/sites/default/files/publications/Microsoft%20Azure%20Active%20Directory%20M365%20Minimum%20Viable%20SCB%20Draft%20v0.1.pdf)
+- [Securing Amazon Web Services by using CIS](https://www.cisecurity.org/benchmark/amazon_web_services)
 
 # Cloud Security Checklists
