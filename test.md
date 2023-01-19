@@ -14,7 +14,7 @@ Please feel free to contribute. : ]
 **Cloud Goat** : Rhino Security Labs’ “Vulnerable by Design” AWS infrastructure setup tool
  - https://github.com/RhinoSecurityLabs/cloudgoat
 
-**AWS Sec Workshop**
+**AWS Sec Workshop** : Collection of workshops and other hands-on content aimed at helping you gain an understanding of the AWS service ecosystem.
   - https://awssecworkshops.com
 
  **Well Architechtedlabs**
@@ -37,11 +37,12 @@ Please feel free to contribute. : ]
 Deep technical guidelines for further study
 
 - **Multi-Vendor Cloud Security**
-	-  https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Cloud.md
+	- [The 'Cloud' aka Someone's Else's Data Center](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Cloud.md)
 - **AWS** 
-	- https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Cloud%20-%20AWS%20Pentest.md
+	- [Payload All the things - AWS Pentest](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Cloud%20-%20AWS%20Pentest.md)
 - **Azure**
-	- https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Cloud%20-%20Azure%20Pentest.md 
+	- [Official Microsoft's Github which related to Security ](https://github.com/MicrosoftDocs/security/tree/main/compass)
+	- [Payload All the things - Azure Pentest](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Cloud%20-%20Azure%20Pentest.md)
 
 # Pentest My Mapping
 - [Cloud PenTest - AWS and Azure by Joas](https://github.com/CyberSecurityUP/Awesome-Cloud-PenTest/raw/main/Cloud%20PenTest%20-%20AWS%20and%20Azure%20by%20Joas.pdf)
@@ -60,11 +61,13 @@ Deep technical guidelines for further study
 
 # Tools
 - **Azure**
-	- https://github.com/NetSPI/MicroBurst
- 
+	- [MicroBurst](https://github.com/NetSPI/MicroBurst)
+
 # Cloud Security Workshop
 - [SANS Workshop – Cloud Application Attacks](https://www.linkedin.com/feed/update/urn:li:activity:7019692097079267328/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7019692097079267328%29) 
 
+# Incident Response
+- [Password Spray Attacks by Microsoft](https://github.com/MicrosoftDocs/security/blob/main/compass/incident-response-playbook-password-spray.md)
 
 # Threat Hunting
 - [Threat Hunting AWS CloudTrail with Sentinel: Part 1](https://www.binarydefense.com/threat-hunting-aws-cloudtrail-with-sentinel-part-1/#_msocom_2)
@@ -74,8 +77,9 @@ Deep technical guidelines for further study
 
 # Cloud Security Governance & Assurance
 - [ Cloud Security Governance & Assurance POV](https://www.linkedin.com/posts/freddymacho_pov-cloud-security-governance-assurance-activity-7013157686728884224-9vNE?utm_source=share&utm_medium=member_desktop)
+- [Cloud Controls Matrix (CCM)](https://cloudsecurityalliance.org/research/cloud-controls-matrix)
 
-# Cloud Assessment
+# Cloud Security Assessment
 - [ScubaGear M365 Secure Configuration Baseline Assessment Tool](https://github.com/cisagov/ScubaGear/tree/main/baselines)
 - [Microsoft Azure Active Directory M365 Minimum Viable Secure Configuration Baseline Draft Version 0.1](https://www.cisa.gov/sites/default/files/publications/Microsoft%20Azure%20Active%20Directory%20M365%20Minimum%20Viable%20SCB%20Draft%20v0.1.pdf)
 - [Securing Amazon Web Services by using CIS](https://www.cisecurity.org/benchmark/amazon_web_services)
