@@ -67,7 +67,8 @@ Deep technical guidelines for further study
 - [SANS Workshop – Cloud Application Attacks](https://www.linkedin.com/feed/update/urn:li:activity:7019692097079267328/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7019692097079267328%29) 
 
 # Incident Response
-- [Password Spray Attacks by Microsoft](https://github.com/MicrosoftDocs/security/blob/main/compass/incident-response-playbook-password-spray.md)
+- [Password Spray Attack Detection by Microsoft](https://github.com/MicrosoftDocs/security/blob/main/compass/incident-response-playbook-password-spray.md)
+- [How to Detect Malicious OAuth Device Code Phishing](https://www.inversecos.com/2022/12/how-to-detect-malicious-oauth-device.html?m=1)
 
 # Threat Hunting
 - [Threat Hunting AWS CloudTrail with Sentinel: Part 1](https://www.binarydefense.com/threat-hunting-aws-cloudtrail-with-sentinel-part-1/#_msocom_2)
